@@ -48,3 +48,8 @@ h3
     {
         text-decoration: underline;
     }
+.skills img
+    {
+        text-decoration: underline;
+        clip-path: circle();
+    }
